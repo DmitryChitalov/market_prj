@@ -86,7 +86,6 @@ pyparsing==2.4.7
 pyTelegramBotAPI==3.6.6
 python-box==3.4.2
 python-dotenv==0.10.3
-python-social-auth==0.3.6
 pytz==2018.9
 PyYAML==5.1
 rabbitmq==0.2.0
