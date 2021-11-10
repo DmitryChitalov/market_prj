@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="20EApHZJry5bB4PD3XBwfuIoEuq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,17 +32,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Дмитрий\Desktop\market_prj\ordersapp\templates\ordersapp" />
+      <recent name="C:\Users\Дмитрий\Desktop\market_prj\adminapp\templates\adminapp" />
+      <recent name="C:\Users\Дмитрий\Desktop\market_prj\mainapp\templates\mainapp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Дмитрий\Desktop\market_prj" />
       <recent name="C:\Users\Дмитрий\Desktop\market_prj\basketapp" />
       <recent name="C:\Users\Дмитрий\Desktop\market_prj\static\css" />
       <recent name="C:\Users\Дмитрий\Desktop\market_prj\authapp\templates\authapp" />
       <recent name="C:\Users\Дмитрий\Desktop\market_prj\mainapp" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Дмитрий\Desktop\market_prj\ordersapp\templates\ordersapp" />
-      <recent name="C:\Users\Дмитрий\Desktop\market_prj\adminapp\templates\adminapp" />
-      <recent name="C:\Users\Дмитрий\Desktop\market_prj\mainapp\templates\mainapp" />
     </key>
   </component>
   <component name="RunManager" selected="Python.probnik">
@@ -104,6 +108,9 @@
       <updated>1630479602133</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="730" y="343" key="#Notifications" timestamp="1635927706963">

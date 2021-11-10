@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="114">
+          <list size="115">
             <item index="0" class="java.lang.String" itemvalue="future" />
             <item index="1" class="java.lang.String" itemvalue="iso8601" />
             <item index="2" class="java.lang.String" itemvalue="PyYAML" />
@@ -119,6 +119,7 @@
             <item index="111" class="java.lang.String" itemvalue="django-summernote" />
             <item index="112" class="java.lang.String" itemvalue="Unidecode" />
             <item index="113" class="java.lang.String" itemvalue="colorama" />
+            <item index="114" class="java.lang.String" itemvalue="pyparsing" />
           </list>
         </value>
       </option>
